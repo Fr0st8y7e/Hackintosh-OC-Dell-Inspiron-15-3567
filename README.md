@@ -27,21 +27,3 @@
 
 #### Not Working:
 - Airdrop
-
-### Monterey (macOS 12):
-#### Working:
-- Intel HD Graphics 620
-- Ethernet 
-- Audio
-- Screen Brightness
-- Brightness Key (F11, F12)
-- Touchpad
-- HDMI
-- All USB Ports
-- SDCard
-- AirPlay to Mac
-
-#### Not Working:
-- Wifi
-- Bluetooth
-- Airdrop
