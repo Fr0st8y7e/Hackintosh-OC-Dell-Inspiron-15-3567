@@ -10,7 +10,7 @@
 - Audio: Realtek ALC256
 - SDCard: Realtek USB 2.0 Card Reader
 
-## Big Sur / Monterey - Working Status:
+## Big Sur - Working Status:
 ### Big Sur (macOS 11):
 #### Working:
 - Intel HD Graphics 620
